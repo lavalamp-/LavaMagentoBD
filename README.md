@@ -8,6 +8,6 @@ If you want to make your own .tgz file (beware, there are lots of consistency is
     tar -czvf bd.tgz app package.xml skin
     mv bd.tgz ..
 
-Enjoi!
+Enjoy!
 
 -lavalamp
